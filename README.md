@@ -36,3 +36,11 @@ React.js
 
 I’m continuously improving it and plan to integrate more advanced AI features soon.
 
+
+## 👨‍💻 Author
+
+**Mohd Ali**  
+Java, Spring Boot Backend Developer | ML Enthusiast  
+
+- 🌐 GitHub: https://github.com/BeingMohdAli  
+- 💼 Connect me on LinkedIn: https://www.linkedin.com/in/mohd-ali-529684378/ 
