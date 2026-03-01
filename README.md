@@ -1,4 +1,6 @@
 🚀 Excited to Share My AI Chatbot Project! 🤖
+<img width="639" height="657" alt="image" src="https://github.com/user-attachments/assets/9ed3a938-c980-44de-9b46-4126765fa868" />
+
 
 I recently built an interactive AI-powered chatbot as part of my journey into web development and generative AI.
 
